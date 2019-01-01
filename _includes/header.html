@@ -1,23 +1,64 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-md fixed-top navbar-transparent" color-on-scroll="500">
   <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
+    <div class="navbar-translate">
     {%- assign page_paths = site.header_pages -%}
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+    <button class="navbar-toggler navbar-toggler-right navbar-buger" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-bar"></span>
+      <span class="navbar-toggler-bar"></span>
+      <span class="navbar-toggler-bar"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <a class="navbar-brand" href=".">{{ site.title | escape }}</a>
+    </div>
+    <div class="collapse navbar-collapse" id="navbarToggler">
       <ul class="navbar-nav ml-auto">
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
           <li class="nav-item">
-            <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="nav-link" rel="tooltip" data-placement="bottom" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           </li>
           {%- endif -%}
         {% endfor -%}
+          <li class="nav-item">
+              <a class="nav-link" rel="tooltip" title="Segueix-nos a Twitter" data-placement="bottom" href="https://twitter.com/{{ site.twitter_username | escape }}" target="_blank">
+              <i class="fa fa-twitter"></i>
+              <p class="d-lg-none">Twitter</p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="Segueix-nos a Facebook" data-placement="bottom" href="https://www.facebook.com/{{ site.facebook_username | escape }}" target="_blank">
+              <i class="fa fa-facebook-square"></i>
+              <p class="d-lg-none">Facebook</p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="Segueix-nos a Instagram" data-placement="bottom" href="https://www.instagram.com/{{ site.instagram_username | escape }}" target="_blank">
+              <i class="fa fa-instagram"></i>
+              <p class="d-lg-none">Instagram</p>
+            </a>
+          </li>
       </ul>
     </div>
   </div>
 </nav>
+
+<div class="wrapper">
+  <div class="page-header section-dark" style="background-image: url('assets/img/tardor.jpg')">
+    <div class="filter"></div>
+    <div class="content-center">
+      <div class="container motto text-center">
+       <div class="title-brand">
+         <h1>{{ site.title | escape }}</h1>
+   	     <div class="fog-low">
+    	   <img src="assets/img/fog-low.png" alt="">
+    	 </div>
+    	 <div class="fog-low right">
+    	   <img src="assets/img/fog-low.png" alt="">
+    	 </div>
+       </div>
+       <h3>{{ site.description | escape }}</h2>
+      </div>
+    </div>
+    <div class="moving-clouds" style="background-image: url('assets/img/clouds.png'); "></div>
+  </div>
+

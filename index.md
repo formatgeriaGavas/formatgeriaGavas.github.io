@@ -1,5 +1,5 @@
 ---
-layout: page
-title: Formatgeria de Gavàs
+layout: home
+title: Inici
 ---
 

@@ -16,10 +16,12 @@
 title: Formatgeria de Gavàs
 author: La Gavasenca, SCCL
 email: "lagavasenca@gmail.com"
-description: La Roseta de Gavàs s'ha cooperativitzat
+description: Elaborem formatges de llet crua de cabra i pasturem el nostre ramat a l'Alt Pirineu
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: formatgedegavas
+facebook_username: formatgeriadegavas
+instagram_username: formatgeriadegavas
 github_username: davidgit
 
 repository: "davigit/formatgeriadegavas"
