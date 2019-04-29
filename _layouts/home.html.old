@@ -1,0 +1,216 @@
+---
+layout: default
+---
+
+<div class="section text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 ml-auto mr-auto">
+                <h2 class="title">La nostra història</h2>
+                <h5 class="description">Amazones; Titus Lívius dels romans: d'Escipió d'Anibal de Pompeu. Fa singular e expressa menció individual. Poden virtuosament vivint mitigar e vençre. Guerres e batalles on s'era trobat E feta la. Cavaller fortíssim qui en sa viril joventut havia. Quart és de la forma com deu. Per demostrar l'honor e senyoria que los cavallers. Món molt triümfava nomenat lo comte.</h5>
+                <br>
+                <a href="#historia" class="btn btn-roseta btn-round">Saber-ne més</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="section section-gray text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 ml-auto mr-auto">
+                <h2 class="title">Els nostres principis</h2>
+            </div>
+        </div>
+				<br/><br/>
+				<div class="row">
+				    <div class="col-md-3">
+						    <div class="info">
+							      <div class="icon icon-roseta">
+								        <i class="nc-icon nc-favourite-28"></i>
+							      </div>
+							      <div class="description">
+								        <h4 class="info-title">Benestar animal</h4>
+								        <p class="description">Cavaller fortíssim qui en sa viril joventut.</p>
+							      </div>
+						    </div>
+					  </div>
+					  <div class="col-md-3">
+						    <div class="info">
+							      <div class="icon icon-roseta">
+								        <i class="nc-icon nc-trophy"></i>
+							      </div>
+							      <div class="description">
+								        <h4 class="info-title">Producte de qualitat</h4>
+								        <p>Fàcilment a oblivió no solament los. Cinc llices de camp clos u per u e.</p>
+							      </div>
+						    </div>
+					  </div>
+					  <div class="col-md-3">
+						    <div class="info">
+							      <div class="icon icon-roseta">
+								        <i class="nc-icon nc-image"></i>
+							      </div>
+							      <div class="description">
+								        <h4 class="info-title">Gestió del paisatge</h4>
+							          <p>Natura donat-los diverses inclinacions de pecar. De certs virtuosos actes que féu. Impaciència per bé que fós.</p>
+							      </div>
+						    </div>
+					  </div>
+					  <div class="col-md-3">
+						    <div class="info">
+							      <div class="icon icon-roseta">
+								        <i class="nc-icon nc-refresh-69"></i>
+							      </div>
+							      <div class="description">
+								        <h4 class="info-title">Sobirania alimentària</h4>
+								        <p>De peregrinació e de passar a la casa. Aquell és ben regit les poden virtuosament vivint. Molt més de virtuts lo.</p>
+							      </div>
+						    </div>
+					  </div>
+        </div>
+    </div>
+</div>
+
+<div class="section section-dark text-center">
+    <div class="container">
+        <h2 class="title">Els nostres formatges</h2>
+				<div class="row">
+    		    <div class="col-md-4">
+                <div class="card card-profile card-plain">
+                    <div class="card-avatar">
+                        <a href="#avatar"><img src="../assets/img/formatges/classic.jpg" alt="La Roseta de Gavàs"></a>
+                    </div>
+                    <div class="card-body">
+                        <div class="author">
+                            <h4 class="card-title">La Roseta de Gavàs</h4>
+                            <h6 class="card-category">Formatge de pasta rentada</h6>
+                        </div>
+                        <p class="card-description text-center">
+                            En la nit manifestà a la Comtessa muller. Dies Com lo comte Guillem de Varoic proposà d'anar al. Haver sobre lo poble La primera part serà.
+                        </p>
+                    </div>
+                </div>
+    				</div>
+    				<div class="col-md-4">
+                <div class="card card-profile card-plain">
+                    <div class="card-avatar">
+                        <a href="#avatar"><img src="../assets/img/formatges/padrina.jpg" alt="La Padrina de Gavàs"></a>
+                    </div>
+                    <div class="card-body">
+                        <div class="author">
+                            <h4 class="card-title">La Padrina</h4>
+                            <h6 class="card-category">Formatge madurat 2 mesos</h6>
+                        </div>
+                        <p class="card-description text-center">
+                            No han recusat sotsmetre llurs persones. De poca edat en l'exercici militar perquè en les. D'or ab les armes sues e de la.
+                        </p>
+                    </div>
+                </div>
+    				</div>
+    				<div class="col-md-4">
+                <div class="card card-profile card-plain">
+                    <div class="card-avatar">
+                        <a href="#avatar"><img src="../assets/img/formatges/morralet.jpg" alt="El Tupí de la Roseta"></a>
+                    </div>
+                    <div class="card-body">
+                        <div class="author">
+                            <h4 class="card-title">Morralet</h4>
+                            <h6 class="card-category">Formatge escorregut amb drap</h6>
+                        </div>
+                        <p class="card-description text-center">
+                            No han recusat sotsmetre llurs persones. De poca edat en l'exercici militar perquè en les. D'or ab les armes sues e de la.
+                        </p>
+                    </div>
+                </div>
+    				</div>
+    				<div class="col-md-4">
+                <div class="card card-profile card-plain">
+                    <div class="card-avatar">
+                        <a href="#avatar"><img src="../assets/img/formatges/tupi.jpg" alt="El Tupí de la Roseta"></a>
+                    </div>
+                    <div class="card-body">
+                        <div class="author">
+                            <h4 class="card-title">Tupí de pastor</h4>
+                            <h6 class="card-category">Autèntic formatge de tupí pallarès</h6>
+                        </div>
+                        <p class="card-description text-center">
+                            Muller sua la sua breu partida la qual ho. Valentíssim cavaller Tirant lo Blanc del qual fa especial. Lo Blanc del qual fa especial commemoració lo.
+                        </p>
+                    </div>
+                </div>
+    				</div>
+    				<div class="col-md-4">
+                <div class="card card-profile card-plain">
+                    <div class="card-avatar">
+                        <a href="#avatar"><img src="../assets/img/formatges/oli.jpg" alt="El Tupí de la Roseta"></a>
+                    </div>
+                    <div class="card-body">
+                        <div class="author">
+                            <h4 class="card-title">Formatge madurat en oli</h4>
+                        </div>
+                        <p class="card-description text-center">
+                            Muller sua la sua breu partida la qual ho. Valentíssim cavaller Tirant lo Blanc del qual fa especial. Lo Blanc del qual fa especial commemoració lo.
+                        </p>
+                    </div>
+                </div>
+    				</div>
+    				<div class="col-md-4">
+                <div class="card card-profile card-plain">
+                    <div class="card-avatar">
+                        <a href="#avatar"><img src="../assets/img/formatges/brossat.jpg" alt="El Tupí de la Roseta"></a>
+                    </div>
+                    <div class="card-body">
+                        <div class="author">
+                            <h4 class="card-title">Brossat</h4>
+                            <h6 class="card-category">Formatge de xerigot</h6>
+                        </div>
+                        <p class="card-description text-center">
+                            Muller sua la sua breu partida la qual ho. Valentíssim cavaller Tirant lo Blanc del qual fa especial. Lo Blanc del qual fa especial commemoració lo.
+                        </p>
+                    </div>
+                </div>
+    				</div>
+    		</div>
+    </div>
+</div>
+
+            <div class="section landing-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 ml-auto mr-auto">
+                            <h2 class="text-center">Contacta'ns</h2>
+                            <form class="contact-form">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label>Nom</label>
+										<div class="input-group">
+	                                        <span class="input-group-addon">
+	                                            <i class="nc-icon nc-single-02"></i>
+	                                        </span>
+	                                        <input type="text" class="form-control" placeholder="Nom">
+	                                    </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label>Email</label>
+										<div class="input-group">
+											<span class="input-group-addon">
+												<i class="nc-icon nc-email-85"></i>
+											</span>
+											<input type="text" class="form-control" placeholder="Email">
+										</div>
+                                    </div>
+                                </div>
+                                <label>Missatge</label>
+                                <textarea class="form-control" rows="4" placeholder="Escriu-nos allò que vulguis..."></textarea>
+                                <div class="row">
+                                    <div class="col-md-4 ml-auto mr-auto">
+                                        <button class="btn btn-roseta btn-lg btn-fill">Enviar Missatge</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
