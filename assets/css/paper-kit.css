@@ -135,7 +135,7 @@ blockquote small {
 }
 
 .text-roseta, .text-roseta:hover {
-  color: #ac194f !important;
+  color: #94b232 !important;
 }
 
 .glyphicon {
@@ -576,29 +576,29 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 }
 
 .btn-roseta {
-  background-color: #ac194f;
-  border-color: #ac194f;
+  background-color: #94b232;
+  border-color: #94b232;
   color: #FFFFFF;
   opacity: 1;
   filter: alpha(opacity=100);
 }
 .btn-roseta:hover, .btn-roseta:focus, .btn-roseta:active, .btn-roseta.active, .show > .btn-roseta.dropdown-toggle {
-  background-color: #bc2d61;
+  background-color: #308950;
   color: #FFFFFF;
-  border-color: #bc2d61;
+  border-color: #308950;
 }
 .btn-roseta .caret {
   border-top-color: #FFFFFF;
 }
 .btn-roseta.btn-link {
-  color: #ac194f;
+  color: #94b232;
 }
 .btn-roseta.btn-link:hover, .btn-roseta.btn-link:focus, .btn-roseta.btn-link:active, .btn-roseta.btn-link.active, .open > .btn-roseta.btn-link.dropdown-toggle {
   background-color: transparent;
   color: #bc2d61;
 }
 .btn-roseta.btn-link .caret {
-  border-top-color: #ac194f;
+  border-top-color: #94b232;
 }
 .btn-roseta .caret {
   border-top-color: #FFFFFF;
@@ -1174,7 +1174,7 @@ textarea.form-control {
 }
 
 .progress-bar-roseta {
-  background-color: #ac194f;
+  background-color: #94b232;
 }
 
 .noUi-target,
@@ -1448,7 +1448,7 @@ textarea.form-control {
 }
 
 .label-roseta {
-  background-color: #ac194f;
+  background-color: #94b232;
 }
 
 .label-default {
@@ -3630,7 +3630,7 @@ textarea.form-control {
 }
 
 .icon-roseta {
-  color: #ac194f;
+  color: #94b232;
 }
 
 .icon-neutral {
@@ -3797,11 +3797,11 @@ textarea.form-control {
 }
 
 .nav-pills-roseta .nav-item .nav-link {
-  border: 1px solid #ac194f !important;
-  color: #ac194f !important;
+  border: 1px solid #94b232 !important;
+  color: #94b232 !important;
 }
 .nav-pills-roseta .nav-item .nav-link.active {
-  border: 1px solid #ac194f !important;
+  border: 1px solid #94b232 !important;
   color: #FFFFFF !important;
 }
 
@@ -3883,8 +3883,8 @@ textarea.form-control {
 .pagination-roseta > .page-item:first-child > span,
 .pagination-roseta > .page-item:last-child > .page-link,
 .pagination-roseta > .page-item:last-child > span {
-  border: 2px solid #ac194f;
-  color: #ac194f;
+  border: 2px solid #94b232;
+  color: #94b232;
 }
 
 .nav-pills-roseta > .page-item.active > .page-link,
@@ -3899,8 +3899,8 @@ textarea.form-control {
 .pagination-roseta > .page-item.active > span:hover,
 .pagination-roseta > .page-item.active > .page-link:focus,
 .pagination-roseta > .page-item.active > span:focus {
-  background-color: #ac194f !important;
-  border-color: #ac194f !important;
+  background-color: #94b232 !important;
+  border-color: #94b232 !important;
   color: #FFFFFF;
 }
 
@@ -4031,7 +4031,7 @@ textarea.form-control {
 
 .nav-pills-roseta .nav-item.show .nav-link,
 .nav-pills-roseta .nav-link.active {
-  background-color: #ac194f !important;
+  background-color: #94b232 !important;
 }
 
 .pagination > li > a:hover,

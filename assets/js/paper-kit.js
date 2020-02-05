@@ -138,12 +138,12 @@ pk = {
         	if($(document).scrollTop() > $(".navbar").attr("color-on-scroll") ) {
                 if(transparent) {
                     transparent = false;
-                    $('.navbar[color-on-scroll]').removeClass('navbar-transparent');
+                    $('.navbar[color-on-scroll]').removeClass('navbar-transparent').addClass('navbar-dark bg-dark');
                 }
             } else {
                 if( !transparent ) {
                     transparent = true;
-                    $('.navbar[color-on-scroll]').addClass('navbar-transparent');
+                    $('.navbar[color-on-scroll]').removeClass('navbar-dark bg-dark').addClass('navbar-transparent');
                 }
             }
     }, 17),
