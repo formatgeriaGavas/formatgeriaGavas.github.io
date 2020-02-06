@@ -9,7 +9,7 @@
   background-color: $gavas !important;
 }
 
-.text-primary, .text-primary:hover {
+a.text-primary, a.text-primary:hover, a.text-primary:active, a.text-primary:focus {
   color: $gavas !important;
 }
 
@@ -43,4 +43,9 @@
   color: $gavas;
 }
 
+.btn-primary.disabled {
+  background-color: $gavas !important;
+  border-color: $gavas;
+  opacity: 0.2;
+}
 
