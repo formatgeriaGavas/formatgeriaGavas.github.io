@@ -7,7 +7,7 @@ layout: default
         <div class="row">
             <div class="col-md-8 ml-auto mr-auto">
                 <h2 class="title">La nostra història</h2>
-                <h5 class="description">Som una cooperativa de treball associat que l'any 2019 pren el relleu del Jesús i la Rosa davant la formatgeria <b>La Roseta de Gavàs</b> nascuda l'any 2000 a les Valls d'Àneu (Pallars Sobirà).</h5>
+                <h5 class="description">Som una cooperativa de treball associat que l'any 2019 pren el relleu del Jesús i la Rosa davant la formatgeria <b>La Roseta de Gavàs</b> des de l'any 2000.</h5>
                 <br>
                 <a href="#" class="btn btn-primary btn-round disabled">Saber-ne més</a>
             </div>
@@ -168,10 +168,10 @@ layout: default
 
             <div class="section section-gray landing-section">
                 <div class="container">
+                    <h2 class="text-center">Contacta'ns</h2>
                     <div class="row">
-                        <div class="col-md-8 ml-auto mr-auto">
-                            <h2 class="text-center">Contacta'ns</h2>
-                            <form class="contact-form">
+                        <div class="col-md-6 ml-auto mr-auto">
+                            <form action="https://formspree.io/xvoaboyw" method="post" class="contact-form">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <label>Nom</label>
@@ -179,7 +179,7 @@ layout: default
 	                                        <span class="input-group-addon">
 	                                            <i class="nc-icon nc-single-02"></i>
 	                                        </span>
-	                                        <input type="text" class="form-control" placeholder="Nom">
+	                                        <input type="text" name="name"class="form-control" placeholder="Nom">
 	                                    </div>
                                     </div>
                                     <div class="col-md-6">
@@ -188,15 +188,15 @@ layout: default
 											<span class="input-group-addon">
 												<i class="nc-icon nc-email-85"></i>
 											</span>
-											<input type="text" class="form-control" placeholder="Email">
+											<input type="email" name="_replyto" class="form-control" placeholder="Email">
 										</div>
                                     </div>
                                 </div>
                                 <label>Missatge</label>
-                                <textarea class="form-control" rows="4" placeholder="Escriu-nos allò que vulguis..."></textarea>
+                                <textarea name="message" class="form-control" rows="4" placeholder="Escriu-nos allò que vulguis..."></textarea>
                                 <div class="row">
                                     <div class="col-md-4 ml-auto mr-auto">
-                                        <button class="btn btn-primary btn-lg btn-fill">Enviar Missatge</button>
+                                        <button type="submit" class="btn btn-primary btn-lg btn-fill">Enviar Missatge</button>
                                     </div>
                                 </div>
                             </form>
