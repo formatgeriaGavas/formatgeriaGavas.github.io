@@ -49,3 +49,15 @@ a.text-primary, a.text-primary:hover, a.text-primary:active, a.text-primary:focu
   opacity: 0.2;
 }
 
+.navbar .container {
+  background-image: url("img/LogoTransparent.png");
+  background-clip: content-box;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
+}
+
+.navbar-transparent .container {
+  background-image: url("img/LogoTransparent2.png") !important;
+}
