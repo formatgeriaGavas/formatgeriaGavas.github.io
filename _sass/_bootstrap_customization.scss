@@ -65,3 +65,31 @@ a.text-primary, a.text-primary:hover, a.text-primary:active, a.text-primary:focu
 .navbar-transparent .container {
   background-image: none !important;
 }
+
+modal-dialog {
+  max-width: 767px;
+  margin: 1rem auto;
+}
+
+.modal-body {
+  position: relative;
+  padding: 0px;
+  min-height: 400px;
+  background: #ccc;
+}
+
+.close {
+  position:absolute;
+  right: 0.5rem;
+  top: 0;
+  z-index: 999;
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #fff;
+  opacity: 1;
+}
+
+.close:hover {
+  color: #fff;
+  cursor: pointer;
+}
