@@ -87,9 +87,9 @@ $(document).ready(function(){
     // Init Sliders
     pk.initSliders();
 
-    $(window).on('load',function(){
-      $('#exampleModalCenter').modal('show');
-    });
+    //$(window).on('load',function(){
+      //$('#exampleModalCenter').modal('show');
+    //});
 });
 
 
